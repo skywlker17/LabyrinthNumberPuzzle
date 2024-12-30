@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TripleX", "TripleX.vcxproj", "{47574003-89C2-4D14-B0BB-C7B1436BD39D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47574003-89C2-4D14-B0BB-C7B1436BD39D}.Debug|x64.ActiveCfg = Debug|x64
+		{47574003-89C2-4D14-B0BB-C7B1436BD39D}.Debug|x64.Build.0 = Debug|x64
+		{47574003-89C2-4D14-B0BB-C7B1436BD39D}.Debug|x86.ActiveCfg = Debug|Win32
+		{47574003-89C2-4D14-B0BB-C7B1436BD39D}.Debug|x86.Build.0 = Debug|Win32
+		{47574003-89C2-4D14-B0BB-C7B1436BD39D}.Release|x64.ActiveCfg = Release|x64
+		{47574003-89C2-4D14-B0BB-C7B1436BD39D}.Release|x64.Build.0 = Release|x64
+		{47574003-89C2-4D14-B0BB-C7B1436BD39D}.Release|x86.ActiveCfg = Release|Win32
+		{47574003-89C2-4D14-B0BB-C7B1436BD39D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDABAB59-5246-4FD4-9EDF-C5184C7E5AB0}
+	EndGlobalSection
+EndGlobal
